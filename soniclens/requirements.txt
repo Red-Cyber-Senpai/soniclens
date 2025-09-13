@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+whisper                # OpenAI whisper (pip package)
+torch
+torchaudio
+transformers
+webrtcvad
+resemblyzer
+numpy
+scipy
+scikit-learn
+opencv-python
+mediapipe
+aiohttp
+python-multipart
+pydantic
+vosk
+soundfile
